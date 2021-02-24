@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7fb1a0e8.chunk.css",
+    "main.js": "/static/js/main.313a2b22.chunk.js",
+    "main.js.map": "/static/js/main.313a2b22.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f699f3a6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f699f3a6.js.map",
+    "static/js/2.84e79601.chunk.js": "/static/js/2.84e79601.chunk.js",
+    "static/js/2.84e79601.chunk.js.map": "/static/js/2.84e79601.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.7fb1a0e8.chunk.css.map": "/static/css/main.7fb1a0e8.chunk.css.map",
+    "static/js/2.84e79601.chunk.js.LICENSE.txt": "/static/js/2.84e79601.chunk.js.LICENSE.txt",
+    "static/media/Main.css": "/static/media/1img.bd51d556.jpg",
+    "static/media/Atelier.f78c6424.svg": "/static/media/Atelier.f78c6424.svg",
+    "static/media/EDCAN_LOGO.2b1b47ce.svg": "/static/media/EDCAN_LOGO.2b1b47ce.svg",
+    "static/media/PIXEL_White.6003a751.svg": "/static/media/PIXEL_White.6003a751.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f699f3a6.js",
+    "static/js/2.84e79601.chunk.js",
+    "static/css/main.7fb1a0e8.chunk.css",
+    "static/js/main.313a2b22.chunk.js"
+  ]
+}
