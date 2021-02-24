@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/EDCAN-Home-FE/static/css/main.60e7001d.chunk.css",
-    "main.js": "/EDCAN-Home-FE/static/js/main.313a2b22.chunk.js",
-    "main.js.map": "/EDCAN-Home-FE/static/js/main.313a2b22.chunk.js.map",
-    "runtime-main.js": "/EDCAN-Home-FE/static/js/runtime-main.00c97c48.js",
-    "runtime-main.js.map": "/EDCAN-Home-FE/static/js/runtime-main.00c97c48.js.map",
-    "static/js/2.84e79601.chunk.js": "/EDCAN-Home-FE/static/js/2.84e79601.chunk.js",
-    "static/js/2.84e79601.chunk.js.map": "/EDCAN-Home-FE/static/js/2.84e79601.chunk.js.map",
-    "index.html": "/EDCAN-Home-FE/index.html",
-    "static/css/main.60e7001d.chunk.css.map": "/EDCAN-Home-FE/static/css/main.60e7001d.chunk.css.map",
-    "static/js/2.84e79601.chunk.js.LICENSE.txt": "/EDCAN-Home-FE/static/js/2.84e79601.chunk.js.LICENSE.txt",
-    "static/media/Main.css": "/EDCAN-Home-FE/static/media/1img.bd51d556.jpg",
-    "static/media/Atelier.f78c6424.svg": "/EDCAN-Home-FE/static/media/Atelier.f78c6424.svg",
-    "static/media/EDCAN_LOGO.2b1b47ce.svg": "/EDCAN-Home-FE/static/media/EDCAN_LOGO.2b1b47ce.svg",
-    "static/media/PIXEL_White.6003a751.svg": "/EDCAN-Home-FE/static/media/PIXEL_White.6003a751.svg"
+    "main.css": "/test.edcan.kr/static/css/main.dfd6617c.chunk.css",
+    "main.js": "/test.edcan.kr/static/js/main.313a2b22.chunk.js",
+    "main.js.map": "/test.edcan.kr/static/js/main.313a2b22.chunk.js.map",
+    "runtime-main.js": "/test.edcan.kr/static/js/runtime-main.929f33ad.js",
+    "runtime-main.js.map": "/test.edcan.kr/static/js/runtime-main.929f33ad.js.map",
+    "static/js/2.84e79601.chunk.js": "/test.edcan.kr/static/js/2.84e79601.chunk.js",
+    "static/js/2.84e79601.chunk.js.map": "/test.edcan.kr/static/js/2.84e79601.chunk.js.map",
+    "index.html": "/test.edcan.kr/index.html",
+    "static/css/main.dfd6617c.chunk.css.map": "/test.edcan.kr/static/css/main.dfd6617c.chunk.css.map",
+    "static/js/2.84e79601.chunk.js.LICENSE.txt": "/test.edcan.kr/static/js/2.84e79601.chunk.js.LICENSE.txt",
+    "static/media/Main.css": "/test.edcan.kr/static/media/1img.bd51d556.jpg",
+    "static/media/Atelier.f78c6424.svg": "/test.edcan.kr/static/media/Atelier.f78c6424.svg",
+    "static/media/EDCAN_LOGO.2b1b47ce.svg": "/test.edcan.kr/static/media/EDCAN_LOGO.2b1b47ce.svg",
+    "static/media/PIXEL_White.6003a751.svg": "/test.edcan.kr/static/media/PIXEL_White.6003a751.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.00c97c48.js",
+    "static/js/runtime-main.929f33ad.js",
     "static/js/2.84e79601.chunk.js",
-    "static/css/main.60e7001d.chunk.css",
+    "static/css/main.dfd6617c.chunk.css",
     "static/js/main.313a2b22.chunk.js"
   ]
 }
