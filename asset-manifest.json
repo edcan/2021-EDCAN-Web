@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.14e41928.chunk.css",
-    "main.js": "/static/js/main.e09c88eb.chunk.js",
-    "main.js.map": "/static/js/main.e09c88eb.chunk.js.map",
+    "main.css": "/static/css/main.28e1155c.chunk.css",
+    "main.js": "/static/js/main.fb95c9ea.chunk.js",
+    "main.js.map": "/static/js/main.fb95c9ea.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f699f3a6.js",
     "runtime-main.js.map": "/static/js/runtime-main.f699f3a6.js.map",
     "static/js/2.86759f1d.chunk.js": "/static/js/2.86759f1d.chunk.js",
     "static/js/2.86759f1d.chunk.js.map": "/static/js/2.86759f1d.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.14e41928.chunk.css.map": "/static/css/main.14e41928.chunk.css.map",
+    "static/css/main.28e1155c.chunk.css.map": "/static/css/main.28e1155c.chunk.css.map",
     "static/js/2.86759f1d.chunk.js.LICENSE.txt": "/static/js/2.86759f1d.chunk.js.LICENSE.txt",
     "static/media/Main.css": "/static/media/EDCAN_2020.7d28cf14.jpg",
     "static/media/Atelier.f78c6424.svg": "/static/media/Atelier.f78c6424.svg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.f699f3a6.js",
     "static/js/2.86759f1d.chunk.js",
-    "static/css/main.14e41928.chunk.css",
-    "static/js/main.e09c88eb.chunk.js"
+    "static/css/main.28e1155c.chunk.css",
+    "static/js/main.fb95c9ea.chunk.js"
   ]
 }
