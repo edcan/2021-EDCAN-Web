@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/*/static/css/main.c155b90c.chunk.css",
-    "main.js": "/*/static/js/main.ec110ccc.chunk.js",
-    "main.js.map": "/*/static/js/main.ec110ccc.chunk.js.map",
-    "runtime-main.js": "/*/static/js/runtime-main.3b33466d.js",
-    "runtime-main.js.map": "/*/static/js/runtime-main.3b33466d.js.map",
-    "static/js/2.63a9ab9c.chunk.js": "/*/static/js/2.63a9ab9c.chunk.js",
-    "static/js/2.63a9ab9c.chunk.js.map": "/*/static/js/2.63a9ab9c.chunk.js.map",
-    "index.html": "/*/index.html",
-    "static/css/main.c155b90c.chunk.css.map": "/*/static/css/main.c155b90c.chunk.css.map",
-    "static/js/2.63a9ab9c.chunk.js.LICENSE.txt": "/*/static/js/2.63a9ab9c.chunk.js.LICENSE.txt",
-    "static/media/Atelier.f78c6424.svg": "/*/static/media/Atelier.f78c6424.svg",
-    "static/media/Main.css": "/*/static/media/img1.fcd17da6.jpg",
-    "static/media/EDCAN_LOGO.2b1b47ce.svg": "/*/static/media/EDCAN_LOGO.2b1b47ce.svg",
-    "static/media/PIXEL_onDark.478f8637.svg": "/*/static/media/PIXEL_onDark.478f8637.svg",
-    "static/media/x.07814571.svg": "/*/static/media/x.07814571.svg"
+    "main.css": "/static/css/main.0259a861.chunk.css",
+    "main.js": "/static/js/main.ec110ccc.chunk.js",
+    "main.js.map": "/static/js/main.ec110ccc.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f699f3a6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f699f3a6.js.map",
+    "static/js/2.e06e4b17.chunk.js": "/static/js/2.e06e4b17.chunk.js",
+    "static/js/2.e06e4b17.chunk.js.map": "/static/js/2.e06e4b17.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.0259a861.chunk.css.map": "/static/css/main.0259a861.chunk.css.map",
+    "static/js/2.e06e4b17.chunk.js.LICENSE.txt": "/static/js/2.e06e4b17.chunk.js.LICENSE.txt",
+    "static/media/Atelier.f78c6424.svg": "/static/media/Atelier.f78c6424.svg",
+    "static/media/Main.css": "/static/media/img1.fcd17da6.jpg",
+    "static/media/EDCAN_LOGO.2b1b47ce.svg": "/static/media/EDCAN_LOGO.2b1b47ce.svg",
+    "static/media/PIXEL_onDark.478f8637.svg": "/static/media/PIXEL_onDark.478f8637.svg",
+    "static/media/x.07814571.svg": "/static/media/x.07814571.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3b33466d.js",
-    "static/js/2.63a9ab9c.chunk.js",
-    "static/css/main.c155b90c.chunk.css",
+    "static/js/runtime-main.f699f3a6.js",
+    "static/js/2.e06e4b17.chunk.js",
+    "static/css/main.0259a861.chunk.css",
     "static/js/main.ec110ccc.chunk.js"
   ]
 }
